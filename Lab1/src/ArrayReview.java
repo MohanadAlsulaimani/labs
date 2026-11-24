@@ -2,8 +2,8 @@ import java.util.Scanner;
 import java.util.Random;
 import java.util.Arrays;
 
-/* Mohanad alsulaimani
- 44712779 */
+ 
+ 
 
 public class ArrayReview {
 

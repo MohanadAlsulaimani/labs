@@ -1,6 +1,6 @@
 public class TestSinglyLinkedList {
     public static void main(String[] args) {
-        // 1. طباعة الاسم الكامل
+        
 
 
         // 2. إنشاء قائمتين من نوع Integer
